@@ -22,4 +22,4 @@ Published on itch.io
 ## 🛠️ Stack
 Python · JavaScript · C# · React · Flask · Supabase · PostgreSQL · Tailwind · Unity
 
-📫 ivanrybakp@gmail.com · [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+📫 ivanrybakp@gmail.com · [LinkedIn](https://www.linkedin.com/in/ivan-rybak/)
