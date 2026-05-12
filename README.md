@@ -1,16 +1,25 @@
-## Hi there 👋
+# Ivan Rybak
 
-<!--
-**ivandebugr/ivandebugr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student @ Edmonds College (Running Start → UW Bothell) · Everett, WA
 
-Here are some ideas to get you started:
+I build real things. Not tutorials — products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Shipped
+
+**[DriftFix](https://driftfix.app)** — Production focus & productivity SaaS  
+React 19 · Supabase · PostgreSQL · Deno Edge Functions · Upstash Redis · Vercel  
+7,600+ lines · 17 pages · real users · live on a custom domain
+
+**[Budget Planner](https://github.com/ivandebugr/BudgetPlannerApp)** — Self-hosted personal finance dashboard  
+Flask · SQLite · pandas · Chart.js · vanilla JS
+
+**[Python 3D Engine](https://github.com/ivandebugr/Ivan_Debugs_Python_3D_Engine)** — Custom 3D engine built from scratch  
+Python · OpenGL · Ursina · collision detection · real-time physics
+
+**[Games](https://ivandebug.itch.io)** — Unity game prototypes (C#)  
+Published on itch.io
+
+## 🛠️ Stack
+Python · JavaScript · C# · React · Flask · Supabase · PostgreSQL · Tailwind · Unity
+
+📫 ivanrybakp@gmail.com · [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
