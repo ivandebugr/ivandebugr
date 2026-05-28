@@ -16,7 +16,7 @@ Published on itch.io
 **[Budget Planner](https://github.com/ivandebugr/BudgetPlannerApp)** — Self-hosted personal finance dashboard  
 Flask · SQLite · pandas · Chart.js · vanilla JS
 
-## 🛠️ Stack
+## Stack
 Python · JavaScript · C# · React · Flask · Supabase · PostgreSQL · Tailwind · Unity
 
 Email: ivanrybakp@gmail.com · [LinkedIn](https://www.linkedin.com/in/ivan-rybak/)
