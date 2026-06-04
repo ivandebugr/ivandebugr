@@ -7,7 +7,7 @@ CS student @ Edmonds College (Running Start → UW Bothell) · Everett, WA
 **[DriftFix](https://driftfix.app)** — Production focus & productivity SaaS  
 React 19 · Supabase · PostgreSQL · Deno Edge Functions · Upstash Redis · Vercel  
 
-**[Python 3D Engine](https://github.com/ivandebugr/Ivan_Debugs_Python_3D_Engine)** — Custom 3D FPS engine
+**[Python 3D Engine](https://github.com/ivandebugr/Ivan_Debugs_Python_3D_Engine)** — Custom 3D FPS engine  
 Python · OpenGL · Ursina · collision detection · real-time physics
 
 **[Games](https://ivandebug.itch.io)** — Unity games (C#)  
