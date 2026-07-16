@@ -1,6 +1,6 @@
 # Ivan Rybak
 
-CS student @ UW Bothell · Bothell, WA
+CSSE student @ UW Bothell · Bothell, WA
 
 ## Stack
 Python · JavaScript · C# · React · Flask · Supabase · PostgreSQL · Tailwind · Unity
